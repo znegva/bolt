@@ -1,6 +1,6 @@
 {
-    "name": "Bolt-3-backend",
-    "version": "3.0.0",
+    "name": "Bolt-4-backend",
+    "version": "4.0.0",
     "description": "Required Node/Grunt modules for backend's frontend workflow.",
     "license": "MIT",
     "repository": {
@@ -14,16 +14,16 @@
     "dependencies": {
         "blueimp-file-upload": "9.18.0",
         "bootbox": "~4.4.0",
-        "bootstrap-sass": "~3.3.7",
+        "bootstrap": "^4.0.0-beta.1",
         "dropzone": "^5.1.1",
         "font-awesome": "~4.7.0",
-        "jquery": "~2.2.4",
+        "jquery": "~3.2.1",
         "jquery-formatdatetime": "~1.1.6",
         "jquery.cookie": "~1.4.1",
         "magnific-popup": "~1.1.0",
         "modernizr": "~3.5.0",
         "moment": "~2.18.1",
-        "select2": "4.0.0"
+        "select2": "~4.0.3"
     },
     "devDependencies": {
         "autoprefixer": "~7.1.2",
